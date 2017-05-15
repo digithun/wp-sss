@@ -25,6 +25,7 @@ Wordpress Stacks with fine tune for Speed/Secure/Scale with HA
 
 ## How to test
 - Use Apache2 Bench (ab)
+- Google Page Speed https://developers.google.com/speed/pagespeed/insights/
 
 ### Install apache-bench
 - https://github.com/radiospiel/ApacheBench-Lion
