@@ -1,6 +1,9 @@
 # wp-sss
 Wordpress Stacks with fine tune for Speed/Secure/Scale with HA
 
+# Prerequsites
+- One command/click to deploy
+
 # Measures
 ## Speed
 - Max request/sec
