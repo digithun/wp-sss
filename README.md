@@ -43,8 +43,9 @@ ab -c 1000 -n 50000 http://128.199.238.199/
 
 ## How result is measured?
 
-We will measure these 3 values
+We will measure these 4 values from `ab` result 
 ```
+Failed requests:        0 less is better
 Requests per second:    33.91 [#/sec] (mean) more is better
 Time per request:       1179.563 [ms] (mean) less is better
 Transfer rate:          1719.75 [Kbytes/sec] received more is better
