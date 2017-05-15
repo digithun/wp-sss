@@ -5,8 +5,11 @@ Wordpress Stacks with fine tune for Speed/Secure/Scale with HA
 ## Speed
 - Max request/sec
 - Min drop request
+- Time per request (mean)
+- Transfer rate
 - Min CPU
 - Min RAM
+- Transfer rate
 
 ## Secure
 - Pass https://github.com/wpscanteam/wpscan
@@ -15,14 +18,16 @@ Wordpress Stacks with fine tune for Speed/Secure/Scale with HA
 - Pass > 1 failed over
 
 ## Extras
-- Min price
+- Min price $5
 
 ## How to test
-- use Apache2 Bench (ab)
+- Use Apache2 Bench (ab)
 
 ### Install apache-bench
 - https://github.com/radiospiel/ApacheBench-Lion
+
 or
+
 - http://sudheeraedama.blogspot.com/2013/05/install-apachebench-on-mac-osx-1075.html
 
 
